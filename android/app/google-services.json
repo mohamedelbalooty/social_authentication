@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "657943364267",
+    "firebase_url": "https://buy-it-ffa13.firebaseio.com",
+    "project_id": "buy-it-ffa13",
+    "storage_bucket": "buy-it-ffa13.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:657943364267:android:b9927901ec73121fce2dee",
+        "android_client_info": {
+          "package_name": "com.mohamedElbalooty.social_auth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "657943364267-ce3fc709i63bj79pds19p8i1r63gqthg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mohamedElbalooty.social_auth",
+            "certificate_hash": "976d5632042c9962ec0bcc95d822717fc94b33ec"
+          }
+        },
+        {
+          "client_id": "657943364267-8r86le9fpa80kijtnpun9u4qtluj6lvf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrTcBxJxTmVdTVyRomH7ocsY0d_xKL4Sg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "657943364267-8r86le9fpa80kijtnpun9u4qtluj6lvf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
